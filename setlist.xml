@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "setlist_rules.css"?>
+
+<!--Name: Jada Worthy (jworth03)-->
+<!--COMP20-->
+<!--HW3: XML SONG LIST-->
+<!--XML document that is a set list for a cover band.-->
+
+<set_list> 
+    <song>
+        <heading> SETLIST </heading>
+        <title> TITLE </title>
+        <artist> ARTIST </artist>
+        <genre> GENRE </genre>
+        <year> RELEASE YEAR </year>
+    </song>
+
+    <song>
+        <title> 1.) Comfortable </title>
+        <artist> H.E.R. </artist>
+        <genre> RnB </genre>
+        <year> 2020 </year>
+    </song>
+
+    <song>
+        <title> 2.) Let Me Know (At Your Best) </title>
+        <artist> Aaliyah </artist>
+        <genre> Neo Soul </genre>
+        <year> 1994 </year>
+    </song>
+
+    <song>
+        <title> 3.) Don't Take Me Home </title>
+        <artist> Tori Kelly </artist>
+        <genre> Pop </genre>
+        <year> 2020 </year>
+    </song>
+
+    <song>
+        <title> 4.)  Whoa </title>
+        <artist> Snoh Aalegra </artist>
+        <genre> RnB/Soul </genre>
+        <year> 2019 </year>
+    </song>
+
+    <song>
+        <title> 5.)  Glad </title>
+        <artist> Tori Kelly </artist>
+        <genre> Pop </genre>
+        <year> 2020 </year>
+    </song>
+
+    <song>
+        <title> 6.)  21 </title>
+        <artist> H.E.R. </artist>
+        <genre> RnB/Soul </genre>
+        <year> 2018 </year>
+    </song>
+
+    <song>
+        <title> 7.)  Mama's Here </title>
+        <artist> King Sis </artist>
+        <genre> Soul </genre>
+        <year> 2020 </year>
+    </song>
+
+    <song>
+        <title> 8.)  Time </title>
+        <artist> Snoh Aalegra </artist>
+        <genre> RnB/Soul </genre>
+        <year> 2017 </year>
+    </song>
+
+    <song>
+        <title> 9.)  This Ain't The Way </title>
+        <artist> Jeremy Passion ft. Tori Kelly </artist>
+        <genre> Alternative/Indie </genre>
+        <year> 2011 </year>
+    </song>
+
+    <song>
+        <title> 10.)  Killing Me Softly With His Song </title>
+        <artist> Fugees, Ms.Lauryn Hill </artist>
+        <genre> Pop/Hip-Hop/Rap </genre>
+        <year> 1996 </year>
+    </song>
+
+</set_list>
